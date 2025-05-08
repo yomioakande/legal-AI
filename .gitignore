@@ -1,0 +1,7 @@
+app/__pycache__/
+postgres/
+*.env
+.venv/
+venv/
+.vscode/
+app/data/pdfs/
