@@ -1,9 +1,6 @@
-fastapi
-uvicorn
-sentence-transformers
-faiss-cpu
-PyMuPDF
-numpy
 streamlit
-openai
+faiss-cpu
+sentence-transformers
+sumy
 nltk
+numpy
